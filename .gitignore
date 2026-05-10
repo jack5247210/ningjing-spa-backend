@@ -1,0 +1,12 @@
+target/ 
+build/ 
+.gradle/ 
+.idea/ 
+*.iml 
+.vscode/ 
+*.swp 
+*.swo 
+.DS_Store 
+Thumbs.db 
+*.log 
+application.properties 
